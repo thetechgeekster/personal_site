@@ -1,1 +1,24 @@
 /* You can add global styles to this file, and also import other style files */
+@import url('css/fonts.css');
+
+body {
+  width: 100% !important;
+  background: url("http://www.bojackhorseman.com/art/mane/bg_with_rain.png");
+  font-family: "ComicSansMS";
+  color: white;
+}
+
+.ant-layout-header{
+  background: transparent;
+}
+
+.logo{
+  margin: 10px;
+  font-size: 15pt;
+}
+
+
+.ant-menu{
+  background: transparent;
+  font-size: 15pt;
+}

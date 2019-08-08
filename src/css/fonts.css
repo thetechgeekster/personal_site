@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'ComicSansMS';
+  src: url('../fonts/ComicSansMSBold.eot');
+  src: url('../fonts/ComicSansMSBold.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/ComicSansMSBold.woff') format('woff'),
+  url('../fonts/ComicSansMSBold.ttf')  format('truetype'),
+  url('../fonts/ComicSansMSBold.svg#ComicSansMSBold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'ComicSansMS';
+  src: url('../fonts/ComicSansMS.eot');
+  src: url('../fonts/ComicSansMS.eot?#iefix') format('embedded-opentype'),
+  url('../fonts/ComicSansMS.woff') format('woff'),
+  url('../fonts/ComicSansMS.ttf')  format('truetype'),
+  url('../fonts/ComicSansMS.svg#ComicSansMS') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
